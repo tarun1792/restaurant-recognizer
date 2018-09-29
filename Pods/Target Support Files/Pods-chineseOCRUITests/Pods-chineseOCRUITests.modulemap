@@ -1,0 +1,6 @@
+framework module Pods_chineseOCRUITests {
+  umbrella header "Pods-chineseOCRUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
